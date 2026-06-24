@@ -1,9 +1,9 @@
 # Klee Step Sequencer
 Max/MSP standalone Klee Sequencer.
 
-~ Classical Klee step sequencer design.
-~ Ableton link supported.
-~ MIDI CC ouptut.
+* Classical Klee step sequencer design.
+* Ableton link supported.
+* MIDI CC ouptut.
 
 inspired by
 - Getting to Know Your electro-music Klee Sequencer
